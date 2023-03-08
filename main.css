@@ -1,0 +1,21 @@
+
+h1 {
+    display: inline-block;
+    font-family:'Times New Roman', Times, serif;
+    color:darkblue
+}
+
+. form {
+    text-align: center;
+}
+
+.body {
+
+    width: 500px;
+text-align:center;
+display: inline-block;
+}
+.form {
+    text-align: center;
+    border: 3px solid blueviolet;
+}
